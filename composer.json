@@ -1,10 +1,8 @@
 {
-    "name": "codicastudio/userdataexport",
-    "description": "A noobs worthless garbage, just learning.",
-    "keywords": [
-        "worthless garabage by a noob."
-    ],
-    "homepage": "https://github.com/codicastudio/userdataexport",
+    "name": "codica-studio/userdataexport",
+    "description": "A random Codica Studio package.",
+
+    "homepage": "https://github.com/codica-studio/userdataexport",
     "license": "MIT",
     "authors": [
         {
@@ -17,7 +15,7 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        "php": "^7.4",
+        "php": "^7.4 || ^8.0",
         "ext-zip": "*",
         "illuminate/filesystem": "^8.0",
         "illuminate/queue": "^8.0",
