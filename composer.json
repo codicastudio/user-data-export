@@ -1,8 +1,8 @@
 {
-    "name": "codica-studio/userdataexport",
+    "name": "codicastudio/user-data-export",
     "description": "A random Codica Studio package.",
 
-    "homepage": "https://github.com/codicastudio/userdataexport",
+    "homepage": "https://github.com/codicastudio/user-data-export",
     "license": "MIT",
     "authors": [
         {
@@ -12,7 +12,7 @@
             "role": "Developer"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "prefer-stable": true,
     "require": {
         "php": "^7.4 || ^8.0",
@@ -21,7 +21,7 @@
         "illuminate/queue": "^8.0",
         "illuminate/support": "^8.0",
         "nesbot/carbon": "^2.14",
-        "spatie/temporary-directory": "^1.1"
+        "codicastudio/temporary-directory": "^1.0"
     },
     "require-dev": {
         "orchestra/testbench": "^6.0"
